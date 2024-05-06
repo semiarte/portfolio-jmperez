@@ -1,0 +1,17 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #070f21;
+  color: white;
+}
+.company-logo {
+  border-radius: 50%;
+  max-width: 100%;
+}
+.MuiChip-label {
+  color: #5eead4;
+}
